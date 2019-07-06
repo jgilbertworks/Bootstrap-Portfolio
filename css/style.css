@@ -1,0 +1,148 @@
+* {
+  /* applies to all */
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.sticky-top {
+    width: 175px;
+    height: 40px;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    font-size: 24px;
+    text-align: center;
+    position: absolute; 
+}
+
+h1 {
+    color: #4aaaa5;
+    text-align: left;
+    padding-top: 3%;
+}
+
+.header-break {
+    width: 95%;
+}
+/* on about page */
+.img-bk {
+    background-image: url("https://png.pngtree.com/thumb_back/fw800/back_pic/04/20/91/22582ec506608ed.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.container {
+    margin-top: 5%;
+    margin-bottom: 10%;
+    width: 960px;
+    height: 40%;
+    background-color: #ffffff;
+    text-align: left;
+}
+/* background image 1 on portfolio */
+  
+.col1 {
+    background-image: url("https://purepng.com/public/uploads/large/purepng.com-pilsner-urgquell-clipartbeerdrinkgoldenfoodgerman-21525885655li0c3.png");
+    background-size: cover;
+    width: 150px;
+    height: 150px;
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    color: #ffffff;
+    text-align: center;
+  }
+
+  /* background image 2 on portfolio */
+
+  .col2 {
+    background-image: url("https://officedepot.scene7.com/is/image/officedepot/729770_p?$OD%2DLarge$&wid=450&hei=450")!important;
+    background-size: cover;
+    width: 150px;
+    height: 150px;
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    color: #ffffff;
+    text-align: center;
+  }
+
+  /* background image 3 on portfolio */
+
+  .col3 {
+    background-image: url("http://cdn.shopify.com/s/files/1/1829/4817/products/maxf-board-bottom_grande.jpg?v=1491573765")!important;
+    background-size: cover;
+    width: 150px;
+    height: 150px;
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    color: #ffffff;
+    text-align: center;
+  }
+
+  /* background image 4 on portfolio */
+
+  .col4 {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTJd0ZuWqv1HBShXNqJnG18HfStnhDgILjH4N-PFDhZ1Gt4YHK")!important;
+    background-size: cover;
+    width: 150px;
+    height: 150px;
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    color: #ffffff;
+    text-align: center;
+  }
+
+  /* background image 5 on portfolio */
+
+  .col5 {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHfXpsa_6uYgKQO4nKtf02RjqJu9cO8ms7uXltWMoQlTBDDJPwWQ")!important;
+    background-size: cover;
+    width: 150px;
+    height: 150px;
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    color: #ffffff;
+    text-align: center;
+  }
+
+  /* background container 6 on portfolio */
+
+  .col6 {
+    width: 150px;
+    height: 150px;
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    color: #ffffff;
+    text-align: center;
+  }
+
+  /* contact button */
+  .btn {
+      margin-bottom: 5%;
+      background-color: #4aaaa5!important;
+      border-color: #4aaaa5!important;
+  }
+
+  .footer-margin {
+    height: 75px;
+    width: 100%;
+    background-color: #666666;
+    
+    bottom: 0;
+    opacity: 0.33;
+  }
+
+  .card-footer {
+    background-color: #4aaaa5!important;
+  }

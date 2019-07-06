@@ -34,12 +34,15 @@ Deploy your new Bootstrap-powered portfolio to GitHub Pages.
 backend:
 - [ ] HTML5
 - [ ] CSS3
+- [ ] JavaScript
 
 frontend:
+
 
 design:
 
 ## Other resources
+- [ ] Bootstrap
 
 # Setup
 
